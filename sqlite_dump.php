@@ -1,4 +1,4 @@
-<?
+<?php
 
 /*
 	sqlite database dump
